@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopperss</string>
+    <string name="infoo">Wood framed design, simple and radio-frequency wall clock. </string>
+    <string name="name">Berlin</string>
+    <string name="cost">95 $</string>
+    <string name="description"></string>
+    <string name="readmore">Read More</string>
+    <string name="color">Color</string>
+    <string name="colorDescription">Brown</string>
+    <string name="button">ADD TO CART</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopperss</string>
+    <string name="infoo">Wood framed design, simple and radio-frequency wall clock. </string>
+    <string name="name">Berlin</string>
+    <string name="cost">1549.00 TL</string>
+    <string name="readmore">Daha Fazla</string>
+    <string name="color">Renk</string>
+    <string name="colorDescription">Kahverengi</string>
+    <string name="button">SEPETE EKLE</string>
+</resources>
